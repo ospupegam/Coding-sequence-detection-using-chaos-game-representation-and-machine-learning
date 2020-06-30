@@ -6,5 +6,5 @@
   In order to gain accurate classification results, the inputs to a feature vector should be able to represent the original data. The representation of the DNA sequence in chaos game representation (CGR) is able to give graphical and numerical representations of the genomic sequences, by the unique properties of CGR, subsequences of a gene or genome exhibit the main characteristics of the whole sequence, thus it is useful in the detection of special genomic features. 
 CGR method has involved many studies of bioinformatics and this because of the ability to extract as many useful features as possible from CGR and several studies showed that those extracted features play important roles in the genomic study. In the previous study, they used CGR as feature vector input to classify splice sites of the NN269 data set (NN269 dataset has been extracted from 269 human genes as a benchmark splice site dataset). Here, we implement multiple linear and non-linear machine learning classification methods that can predict the protein-coding and non-coding region(intron) through CGR of mammalian related genes, this study will give a recommendation of which classification method that gives accurate classification between coding and non-coding sequences for the future CGR mammalian related genomic studies.
 
-# Material and Method (draft)
+# Material and Method 
 ## Dataset
